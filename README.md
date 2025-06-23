@@ -88,4 +88,4 @@ MIT License
 
 Created by [Your Name]. Reach out for questions or collaboration!
 
-Project link: https://github.com/yourusername/llm-lispify
+Project link: https://github.com/jdltg/llm-lispify
